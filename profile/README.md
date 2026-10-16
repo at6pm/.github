@@ -1,4 +1,4 @@
-![[hero](github.png)](https://github.com/sixpm-ai/6pm/raw/f15700912e068dad1759ae70706b7ccfabf1fd60/github.png)
+![[hero](github.png)](https://repository-images.githubusercontent.com/810460446/9346eff9-d865-4c9e-9d32-3c0560a65e22)
 
 <p align="center">
 	<h1 align="center"><b>6pm</b></h1>
