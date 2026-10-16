@@ -10,6 +10,6 @@
     ·
     <a href="https://at6pm.app">Website</a>
     ·
-    <a href="https://github.com/get6pm/6pm/issues">Issues</a>
+    <a href="https://github.com/at6pm/6pm/issues">Issues</a>
   </p>
 </p>
